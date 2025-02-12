@@ -1,0 +1,25 @@
+# === Spring Boot ===
+/target/
+/out/
+/bin/
+
+# === Maven ===
+mvnw
+mvnw.cmd
+
+# === Environment Variables ===
+.env
+
+# === IDE Specific ===
+.vscode/
+
+# === Lombok Cache ===
+.lombok/
+
+# === H2 Database ===
+*.h2.db
+*.mv.db
+*.trace.db
+
+.gitattributes
+HELP.md
